@@ -1,4 +1,8 @@
-
+<head>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Arvo">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway">
+</head>
+       
 <div align="right">
 <a href="http://www.coffeete.ir/wolandark">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
