@@ -295,15 +295,17 @@ qAx<ESC>jq
 -   **`:colorscheme [colorscheme_name] `** -- تغییر تم رنگی
 -   **`:colorscheme [space]+Ctrl+d`** -- لیست کردن تمام تم های رنگی موجود
 
+<br>
+<hr>
 <footer>
-<div dir="rtl">
-
-<p>
-
-   جهت کمک به این پروژه و اضافه کردن مطالب و نکات خود در باره وبم، فایل راهنمای داخل مخزن را ببینید.    
-</p>
-       
-</div>
-
-       
+       <div dir="rtl">
+              <p> مطالب این سایت بصورت مداوم به‌روز‌رسانی می‌شوند.  برای دنبال کردن مطالب این سایت را بوکمارک کنید.</p>
+              <p>جهت کمک به این پروژه و اضافه کردن مطالب و نکات خود در باره وبم، فایل راهنمای داخل مخزن را ببینید.</p>
+              <p>حهت خمایت مالی از پروژه، در صورتی که در ایران هستید، روی دکمه‌ی برام یه قهوه بخر کلیک کنید.</p>
+              <p>حهت ارتباط با نگارنده از طریق تلگرام یا ایمیل اقدام کنید.</p>
+       </div>
 </footer>
+
+### Contact me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wolandarkside)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact-woland@proton.me)
