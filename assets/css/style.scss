@@ -2,4 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-body { background-color: #FF0000; }
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body { 
+	background-color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+	color: #00FF00;
+}
