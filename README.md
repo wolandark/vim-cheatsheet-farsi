@@ -1,7 +1,8 @@
-<a href="حرکت در فایل#"> harekat </a>
-<a href="#my-header">Scroll to Heading</a>
+#### این مخزن صرفا جهت تست‌های سایت https://vimpersian.github.io ایجاد شده است. مخزن اصلی در آدرس https://github.com/vimpersian/vimpersian.github.io واقع شده است.
 
-<div align="right">
+<br>
+
+<div align="center">
 <a href="http://www.coffeete.ir/wolandark">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
@@ -18,44 +19,6 @@
 دانستن اینکه ویم فراتر از یک ادیتور است و درواقع یک زبان برای ویرایش متن و کد است در ابتدای کار حیاتی است. 
 در ویم هر کلید کیبورد در مود نرمال به یک کنش یا اکشن اختصاص دارد. مدل ویرایش در ویم این صورت است که ما مدام در بین مودهای مختلف در حال حرکت هستیم و این سرعتی باور نکردنی در پیمایش متن و ویرایش آن به ما می‌دهد.
 <br><br>
-
-ویم دارای گرامر بخصوصی است که آن‌را می‌توان به COM خلاصه کرد.
-</div>
-
-- count (شمارش)
-- operation (عملیات)
-- motion (جهت) 
-
-<div dir="rtl">
-تمام دستورات ویم می‌توانند با یک عدد پیش از آن‌ها، به تعداد آن عدد انجام شوند. همچنین تمام دستورات ویم نیز می‌توانند در جهت خاصی مانند ،چپ، راست، تا آخر خط، تا آخر کلمه، تا آخر پاراگراف ، تا اولین خط خالی و ... انجام شوند.
-<br><br>
-در ویم یا وی‌آی، ما می‌توانیم با تنها یک کلید ، در متن حرکت کنیم. این حرکت‌ها به کلمات، گروهی از حروف ، اعداد، تک حرف ، توکن‌ها یا خط ‌ها باشند.
-در منطق ویم، یک کلمه می‌تواند گروهی از حروف ، اعداد و  سمبل‌ها باشد. از طرفی دیگر یک توکن، هر آنچه که با فضای سفید، (اسپیس)  جدا شده باشد تلقی می‌شود.
-<br><br>
-<strong style="color:red">
-این راهنما باید بعد از انجام کامل vimtutor خوانده شود.
-</strong>
-<br>
-<small> در ترمینال عبارت <code>vimtutor</code> را وارد کنید و درس‌ها را انجام دهید.</small>
-</div>
-
-
-
-
-
-<div dir="rtl"><h1>حرکت در فایل</h1></div>
-<div dir="rtl"><h2>   حرکت با حروف، کلمه یا توکن</h2></div>
-
-<div dir="rtl">کلید‌های اساسی حرکت در ویم این‌ها هستند:</div>
-
--   **`h`** -- حرکت نشانگر به چپ
--   **`j`** -- حرکت نشانگر به پایین
--   **`k`** -- حرکت نشانگر به بالا
--   **`l`** -- حرکت نشانگر به راست
-<br>
-
-<br>
-<hr>
 <footer>
        <div dir="rtl">
               <p> مطالب این سایت بصورت مداوم به‌روز‌رسانی می‌شوند.  برای دنبال کردن مطالب این سایت را بوکمارک کنید.</p>
@@ -70,8 +33,3 @@
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wolandarkside)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact-woland@proton.me)
-
-
-<div dir="rtl">
-    <h1 id="my-header">حرکت در فایل</h1>
-</div>
