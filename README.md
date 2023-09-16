@@ -495,7 +495,7 @@ Sha Sha 25 07:07:01 +0330 1402
 <br>
 <br>
 <hr>
-        <!-- Google tag (gtag.js) -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HW0E88QFZ8"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
