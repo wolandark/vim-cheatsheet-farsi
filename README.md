@@ -6,7 +6,6 @@
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a></div>
 
-<details>
 <div align="center"><h1> Hello Vim World!</h1></div>
 
 <div dir="rtl">
@@ -505,4 +504,4 @@ Sha Sha 25 07:07:01 +0330 1402
 
   gtag('config', 'G-HW0E88QFZ8');
 </script>
-</details>
+
