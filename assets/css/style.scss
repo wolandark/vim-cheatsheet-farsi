@@ -4,7 +4,13 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 body { 
-	background-color: #ffffff;
 	font-family: 'Open Sans', sans-serif;
-	color: #00FF00;
+}
+
+@media (max-width: 768px) {
+	iframe {
+		max-width: 100%; 
+		width: 100%;
+		height: 100%;
+	}
 }
