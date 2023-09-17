@@ -1,6 +1,6 @@
 #### این مخزن صرفا جهت تست‌های سایت https://vimpersian.github.io ایجاد شده است. مخزن اصلی در آدرس https://github.com/vimpersian/vimpersian.github.io واقع شده است.
 <div align="center">
-<iframe   style="max-width: 100%; width: 100%;" width="560" height="315" src="https://www.youtube.com/embed/1MQuSZzjvMA?si=hfl-ZmyHKMjRm7FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1MQuSZzjvMA?si=hfl-ZmyHKMjRm7FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <br>
